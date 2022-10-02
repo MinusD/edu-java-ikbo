@@ -5,7 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="982abb68-dbe3-439e-a87e-1571256893da" name="Changes" comment="Added students packages">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task01/Qwer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task02/rand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task03/garm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task04/Fibi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task05/Del.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task06/numberSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task01/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task01/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task02/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task02/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task03/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task03/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task03/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task02/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab01/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task02/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/isaeva/lab02/task03/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +58,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владелец\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\isaeva\lab02\task05" />
+      <recent name="C:\Users\Владелец\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\isaeva\lab02\task04" />
+      <recent name="C:\Users\Владелец\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\isaeva\lab02\task02" />
+      <recent name="C:\Users\Владелец\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\isaeva\lab02\task01" />
+      <recent name="C:\Users\Владелец\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\isaeva\lab01\task06" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.lukovnikov.lab01.task01.ArraySum" />
