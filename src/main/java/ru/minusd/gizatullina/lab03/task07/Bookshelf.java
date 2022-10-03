@@ -1,7 +1,5 @@
 package ru.minusd.gizatullina.lab03.task07;
 
-import Dog.Dog;
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
