@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="982abb68-dbe3-439e-a87e-1571256893da" name="Changes" comment="Added students packages">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab01/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task01/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task02/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task02/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task03/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task03/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task04/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task04/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task04/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task05/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task05/DogKennel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task05/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task06/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task06/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task06/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task07/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task07/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task07/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/bajdak/lab02/task08/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,19 +31,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/badha/IdeaProjects/edu-java-ikbo/src/main/java/ru/minusd/kuznetsov/lab03/task07",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\badha\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\kuznetsov\lab03\task07" />
+      <recent name="C:\Users\badha\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\kuznetsov\lab03\task06" />
+      <recent name="C:\Users\badha\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\kuznetsov\lab03\task05" />
+      <recent name="C:\Users\badha\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\kuznetsov\lab03\task04" />
+      <recent name="C:\Users\badha\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\kuznetsov\lab03\task03" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\bajdak\lab02\task08" />
       <recent name="C:\Users\User\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\bajdak\lab02\task07" />
       <recent name="C:\Users\User\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\bajdak\lab02\task06" />
       <recent name="C:\Users\User\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\bajdak\lab02\task05" />
       <recent name="C:\Users\User\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\bajdak\lab02\task04" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.minusd.kuznetsov.lab03.task10" />
+      <recent name="ru.minusd.kuznetsov.lab03.task09" />
+      <recent name="ru.minusd.kuznetsov.lab03.task08" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
