@@ -4,50 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="982abb68-dbe3-439e-a87e-1571256893da" name="Changes" comment="Added students packages">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task01/Pr1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task02/Pr1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task03/Pr1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task01/Pr2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task02/Pr2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task03/Pr2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task01/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task01/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task02/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task02/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task03/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task03/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task04/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task04/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task05/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task05/DogKennel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task06/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task06/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task06/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task07/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task07/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task07/Bookshelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task08/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task09/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab03/task10/HowMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab01/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/kuznetsov/lab02/task10/.gitkeep" beforeDir="false" />
-    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
