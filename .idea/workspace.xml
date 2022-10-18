@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e900c37-ed77-49d7-a294-4e376205b6ec" name="Changes" comment="zakatov: Added practices: 7" />
+    <list default="true" id="1e900c37-ed77-49d7-a294-4e376205b6ec" name="Changes" comment="zakatov: Added practices: 7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task01/TriangularSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task02/SimpleSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task03/PrintAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task04/CountNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,13 +58,13 @@
       <recent name="ru.minusd.kuznetsov.lab03.task08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.lukovnikov.lab01.task01.ArraySum" />
-      <module name="edu-java-ikbo" />
+  <component name="RunManager" selected="Application.SumNumber">
+    <configuration name="CountNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab08.task04.CountNumbers" />
+      <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.lukovnikov.lab01.task01.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab08.task04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +72,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.bajdak.lab01.task01.Main" />
+    <configuration name="PrintAB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab08.task03.PrintAB" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.bajdak.lab01.task01.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab08.task03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab08.task02.SimpleSequence" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.zakatov.lab08.task02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab08.task05.SumNumber" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.zakatov.lab08.task05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangularSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab08.task01.TriangularSequence" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.zakatov.lab08.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.SumNumber" />
+        <item itemvalue="Application.CountNumbers" />
+        <item itemvalue="Application.PrintAB" />
+        <item itemvalue="Application.SimpleSequence" />
+        <item itemvalue="Application.TriangularSequence" />
       </list>
     </recent_temporary>
   </component>
