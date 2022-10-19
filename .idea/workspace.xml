@@ -1,15 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e900c37-ed77-49d7-a294-4e376205b6ec" name="Changes" comment="zakatov: Added practices: 7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task01/TriangularSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task02/SimpleSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task03/PrintAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task04/CountNumbers.java" afterDir="false" />
+    <list default="true" id="dea00f29-0bc9-4264-a632-daef2800cc43" name="Changes" comment="Vasiliev: Added practices 1-12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab01/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab01/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab01/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab02/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab02/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab02/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task1/PractOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task1/PractTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task10/HowMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task4/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task4/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task5/DogHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task5/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task6/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task6/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task7/Bookshelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task7/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task8/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task9/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_0_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_1_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_2_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_3_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_4_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_5_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_6_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/animation/frame_7_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/imgopener/ImageOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/imgopener/jaba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/imgopener/kwaksha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/match/MatchGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/shapegen/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/shapegen/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/shapegen/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/shapegen/ShapeGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab05/shapegen/TaskShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task1/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task1/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task1/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Manufacturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task10/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task11/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task12/Append.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task12/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task12/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task12/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task12/StringBuilderUndo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task12/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task13/BuilderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task13/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task13/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task13/StringBuilderPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task13/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task2/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task2/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task2/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task3/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task3/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task4/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task4/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task4/Videogame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task6789/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task6789/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task6789/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab06/task6789/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task23/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task23/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task23/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task4/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task4/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task56/ProcessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task56/StringManip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task56/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task78/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task78/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab07/task78/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab08/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab08/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab08/Task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab08/Task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab08/Task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/MergeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/QuicksortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/TestInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/MergeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/QuicksortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/TestInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_0_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_1_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_2_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_3_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_4_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_5_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_6_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/animation/frame_7_delay-0.1s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/imgopener/ImageOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/imgopener/jaba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/imgopener/kwaksha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/shapegen/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/shapegen/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/shapegen/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/shapegen/ShapeGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/shapegen/TaskShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task02/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab09/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task02/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab10/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task02/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab11/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task02/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab12/task10/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +208,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="2FUUeRzJZ6PqDgKsgN3NyOc9WOY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,6 +218,12 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -124,17 +312,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SumNumber" />
@@ -148,13 +325,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="982abb68-dbe3-439e-a87e-1571256893da" name="Changes" comment="" />
+      <changelist id="dea00f29-0bc9-4264-a632-daef2800cc43" name="Changes" comment="" />
       <created>1664546255788</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664546255788</updated>
       <workItem from="1664546261911" duration="2869000" />
       <workItem from="1664913516021" duration="675000" />
+      <workItem from="1666113250986" duration="1440000" />
     </task>
     <task id="LOCAL-00001" summary="Added students packages">
       <created>1664548259085</created>
@@ -183,6 +361,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added students packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added students packages" />
+    <MESSAGE value="Vasiliev: Added practices 1-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vasiliev: Added practices 1-12" />
   </component>
 </project>
