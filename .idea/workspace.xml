@@ -4,55 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task01/SortStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task02/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task02/TestSortingStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task03/TestMergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task01/TestPrintDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task02/TestCompareDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task03/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task04/InputDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task05/MeasureTime.java" afterDir="false" />
+    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="Vasiliev: Added practices 14-16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/EmployeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/MVCEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/MVCProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/ProfileModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/ProfileViewGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab02/task09/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab02/task09/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab07/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab07/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab07/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task03/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task01/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task02/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task03/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task10/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +46,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2GReyVNARYjBWNzMU2CfZ8znT8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,7 +59,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.MeasureTime">
+  <component name="RunManager" selected="Application.MVCProfile">
     <configuration name="InputDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task04.InputDate" />
       <module name="tasks" />
@@ -102,38 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MVCEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab17.task02.MVCEmployee" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab17.task02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MVCProfile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab17.task03.MVCProfile" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab17.task03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MeasureTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task05.MeasureTime" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.minusd.zakatov.lab11.task05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCompareDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task02.TestCompareDates" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPrintDeveloper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task01.TestPrintDeveloper" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MVCProfile" />
+        <item itemvalue="Application.MVCEmployee" />
         <item itemvalue="Application.MeasureTime" />
         <item itemvalue="Application.InputDate" />
         <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.TestCompareDates" />
-        <item itemvalue="Application.TestPrintDeveloper" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +161,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
