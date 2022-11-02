@@ -4,23 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="Vasiliev: Added practices 14-16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/EmployeeModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/EmployeeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task02/MVCEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/MVCProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/ProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/ProfileModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task03/ProfileViewGUI.java" afterDir="false" />
+    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="Vasiliev: Added practice 17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task01/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task02/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task03/Exception3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task04/Exception4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task05/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task06/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task07/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task08/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/ComparableStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/EmptyStringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/LabClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/LabClassDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/LabClassUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/StudentNotFoundException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab17/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task10/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +59,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2GReyVNARYjBWNzMU2CfZ8znT8J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,19 +70,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/edu-java-ikbo/src/main/java/ru/minusd/vasiliev/lab18/task08&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\edu-java-ikbo\src\main\java\ru\minusd\vasiliev\lab18\task08" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.minusd.vasiliev.lab18.task06" />
+      <recent name="ru.minusd.vasiliev.lab18.task04" />
+      <recent name="ru.minusd.vasiliev.lab18.task03" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MVCProfile">
-    <configuration name="InputDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task04.InputDate" />
+  <component name="RunManager" selected="Application.LabClassDriver">
+    <configuration name="Exception4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task04.Exception4" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task04.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MVCEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab17.task02.MVCEmployee" />
+    <configuration name="LabClassDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab19.task02.LabClassDriver" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab17.task02.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab19.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MVCProfile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab17.task03.MVCProfile" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task07.Main" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab17.task03.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeasureTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task05.MeasureTime" />
+    <configuration name="ThrowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task05.ThrowDemo" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task05.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task03.TestStudent" />
+    <configuration name="ru.minusd.vasiliev.lab18.task08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task08.Main" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task03.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MVCProfile" />
-        <item itemvalue="Application.MVCEmployee" />
-        <item itemvalue="Application.MeasureTime" />
-        <item itemvalue="Application.InputDate" />
-        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.LabClassDriver" />
+        <item itemvalue="Application.ru.minusd.vasiliev.lab18.task08.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThrowDemo" />
+        <item itemvalue="Application.Exception4" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +174,17 @@
       <updated>1666271024082</updated>
       <workItem from="1666271026586" duration="5741000" />
       <workItem from="1666356079958" duration="9436000" />
+      <workItem from="1667369194625" duration="4517000" />
+      <workItem from="1667380070063" duration="2828000" />
     </task>
+    <task id="LOCAL-00001" summary="Vasiliev: Added practice 17">
+      <created>1667339531273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667339531273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,5 +200,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vasiliev: Added practice 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vasiliev: Added practice 17" />
   </component>
 </project>
