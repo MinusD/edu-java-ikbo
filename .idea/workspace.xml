@@ -4,36 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="Vasiliev: Added practice 17">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task01/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task02/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task03/Exception3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task04/Exception4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task05/ThrowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task06/ThrowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task07/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task08/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/ComparableStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/EmptyStringException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/LabClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/LabClassDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/LabClassUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task02/StudentNotFoundException.java" afterDir="false" />
+    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="Vasiliev: Added practices 18-19">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task01/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task02/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task03/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task04/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab21/task2/UniversalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab21/task3/UniversalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab21/task4/UniversalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab22/task1task2/CalcStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab22/task1task2/CalculatorGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab22/task1task2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task1/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task1/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task1/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task2/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task2/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task2/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/operations/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/operations/BinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/operations/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/operations/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/operations/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/values/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/values/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab23/task3/values/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/EditorGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/createDocument/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/createDocument/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/documents/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/documents/ImageDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/documents/MusicDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab24/task3/documents/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab25/task1/IPChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab25/task2/ExprChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Hashtab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/TestPriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab18/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task01/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task03/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab19/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab13/task06/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab13/task06/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab20/task10/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +97,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/edu-java-ikbo/src/main/java/ru/minusd/vasiliev/lab18/task08&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/code/edu-java-ikbo&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -83,18 +105,20 @@
       <recent name="D:\code\edu-java-ikbo\src\main\java\ru\minusd\vasiliev\lab18\task08" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ru.minusd.vasiliev.lab18.task06" />
-      <recent name="ru.minusd.vasiliev.lab18.task04" />
-      <recent name="ru.minusd.vasiliev.lab18.task03" />
+      <recent name="ru.minusd.vasiliev.lab23.task2" />
+      <recent name="ru.minusd.vasiliev.lab22.task1" />
+      <recent name="ru.minusd.vasiliev.lab21.task4" />
+      <recent name="ru.minusd.vasiliev.lab21.task3" />
+      <recent name="ru.minusd.vasiliev.lab20.task02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LabClassDriver">
-    <configuration name="Exception4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task04.Exception4" />
+  <component name="RunManager" selected="Application.Hashtab">
+    <configuration name="EditorGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab24.task3.EditorGUI" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task04.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab24.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabClassDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab19.task02.LabClassDriver" />
+    <configuration name="ExprChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab25.task2.ExprChecker" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab19.task02.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab25.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task07.Main" />
+    <configuration name="Hashtab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab26.task1.Hashtab" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task07.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab26.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task05.ThrowDemo" />
+    <configuration name="IPChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab25.task1.IPChecker" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task05.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab25.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.minusd.vasiliev.lab18.task08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab18.task08.Main" />
+    <configuration name="ru.minusd.vasiliev.lab23.task3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab23.task3.Test" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.vasiliev.lab18.task08.*" />
+          <option name="PATTERN" value="ru.minusd.vasiliev.lab23.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabClassDriver" />
-        <item itemvalue="Application.ru.minusd.vasiliev.lab18.task08.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ThrowDemo" />
-        <item itemvalue="Application.Exception4" />
+        <item itemvalue="Application.Hashtab" />
+        <item itemvalue="Application.ExprChecker" />
+        <item itemvalue="Application.IPChecker" />
+        <item itemvalue="Application.EditorGUI" />
+        <item itemvalue="Application.ru.minusd.vasiliev.lab23.task3.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +200,15 @@
       <workItem from="1666356079958" duration="9436000" />
       <workItem from="1667369194625" duration="4517000" />
       <workItem from="1667380070063" duration="2828000" />
+      <workItem from="1667383018558" duration="11430000" />
+      <workItem from="1667480729531" duration="893000" />
+      <workItem from="1667482561403" duration="3406000" />
+      <workItem from="1667703657683" duration="2313000" />
+      <workItem from="1667744423186" duration="6472000" />
+      <workItem from="1667780008520" duration="659000" />
+      <workItem from="1668091154865" duration="1093000" />
+      <workItem from="1669023892848" duration="3434000" />
+      <workItem from="1669562894453" duration="2979000" />
     </task>
     <task id="LOCAL-00001" summary="Vasiliev: Added practice 17">
       <created>1667339531273</created>
@@ -184,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667339531273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vasiliev: Added practices 18-19">
+      <created>1667383124393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667383124393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +243,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vasiliev: Added practice 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vasiliev: Added practice 17" />
+    <MESSAGE value="Vasiliev: Added practices 18-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vasiliev: Added practices 18-19" />
   </component>
 </project>
