@@ -5,54 +5,166 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task01/SortStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task02/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task02/TestSortingStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task03/TestMergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task01/TestPrintDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task02/TestCompareDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task03/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task04/InputDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task05/MeasureTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task03/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task03/TestAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task04/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task04/TestShirts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task05/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task05/TestPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task06/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task02/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task03/Prices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task04/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task05/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task06/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task07/CorrectPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task08/TestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task09/CountLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task01/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task02/Options.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task03/TestMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task01/GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task02/CustomTextArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task02/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task02/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task02/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task02/TestEmployeeMVC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task01/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task01/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task01/Exception3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task01/TestTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task02/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task03/Exception3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task04/Exception4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task05/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task07/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task08/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task02/LabClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task02/LabClassDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task02/LabClassUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task02/exceptions/EmptyStringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task02/exceptions/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task02/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task03/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task04/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task04/TestTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab21/task2/CustomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab21/task2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab21/task5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab21/task5/TestSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab22/task1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab22/task2/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab22/task2/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab22/task2/CalculatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab22/task2/TestCalculatorMVC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/BinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task3/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/BinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/ExpressionParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/UnaryMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab23/task4/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab24/task3/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab24/task3/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab24/task3/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab24/task3/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab24/task3/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab25/Task23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab25/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab26/HashTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab27/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab27/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/extensions/IllegalTableNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/extensions/OrderAlreadyAddedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/items/Alcoholable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/items/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/items/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/items/DrinkTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/items/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/managers/InternetOrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/managers/OrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/managers/TableOrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/orders/InternetOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/orders/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab29/orders/TableOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab32/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab02/task09/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab02/task09/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab07/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab07/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab07/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab08/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab09/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task03/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab10/task10/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task01/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task02/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task03/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task04/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task05/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task06/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task07/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task08/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task09/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab12/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task06/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task06/text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab11/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab14/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab15/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab16/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab17/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab18/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task01/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab19/task10/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab20/task10/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +174,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -86,15 +199,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
   </component>
-  <component name="RunManager" selected="Application.MeasureTime">
-    <configuration name="InputDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task04.InputDate" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.minusd.zakatov.lab29" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zakat\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\zakatov\lab23\task4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab13.task06.Task6" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task04.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab13.task06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeasureTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task05.MeasureTime" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab32.Test" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task05.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,52 +238,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCompareDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task02.TestCompareDates" />
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task02.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.minusd.zakatov.lab31" />
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab31.Tests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrintDeveloper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task01.TestPrintDeveloper" />
+    <configuration name="Tests.testCalc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task01.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.minusd.zakatov.lab31" />
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab31.Tests" />
+      <option name="METHOD_NAME" value="testCalc" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task03.TestStudent" />
+    <configuration name="Tests.testTableOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task03.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.minusd.zakatov.lab31" />
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab31.Tests" />
+      <option name="METHOD_NAME" value="testTableOrder" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MeasureTime" />
-        <item itemvalue="Application.InputDate" />
-        <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.TestCompareDates" />
-        <item itemvalue="Application.TestPrintDeveloper" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.testTableOrder" />
+        <item itemvalue="JUnit.Tests.testCalc" />
+        <item itemvalue="Application.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +305,29 @@
       <updated>1666271024082</updated>
       <workItem from="1666271026586" duration="5741000" />
       <workItem from="1666356079958" duration="9436000" />
+      <workItem from="1666421711947" duration="4791000" />
+      <workItem from="1666550144778" duration="4736000" />
+      <workItem from="1666638511037" duration="1993000" />
+      <workItem from="1666762915205" duration="9281000" />
+      <workItem from="1666867108562" duration="1826000" />
+      <workItem from="1667066509934" duration="799000" />
+      <workItem from="1667387536622" duration="8798000" />
+      <workItem from="1667482085793" duration="3360000" />
+      <workItem from="1667731098796" duration="4000" />
+      <workItem from="1667763836195" duration="353000" />
+      <workItem from="1667805157618" duration="7323000" />
+      <workItem from="1667845589266" duration="2470000" />
+      <workItem from="1667975258095" duration="15463000" />
+      <workItem from="1668086445750" duration="4274000" />
+      <workItem from="1669112378177" duration="1290000" />
+      <workItem from="1669212416132" duration="4012000" />
+      <workItem from="1669306771414" duration="40000" />
+      <workItem from="1669307154200" duration="608000" />
+      <workItem from="1669375893231" duration="13833000" />
+      <workItem from="1669444836402" duration="10000" />
+      <workItem from="1669444876291" duration="15000" />
+      <workItem from="1669815515684" duration="960000" />
+      <workItem from="1670078191615" duration="7089000" />
     </task>
     <servers />
   </component>
