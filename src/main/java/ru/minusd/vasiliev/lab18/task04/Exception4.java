@@ -9,7 +9,7 @@ public class Exception4 {
 
     public static void exceptionDemo() {
         Scanner myScanner = new Scanner( System.in);
-        System.out.print( "Enter an integer ");
+        System.out.print( "Введите число: ");
         String intString = myScanner.next();
         try {
             int i = Integer.parseInt(intString);

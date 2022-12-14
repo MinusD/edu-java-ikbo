@@ -4,44 +4,25 @@ public class Hashtab {
     private final int size = 100;
     private final String[] hashtab = new String[size];
 
-    public void add(String s) {
-        int index = hash(s);
+    public void add(String key, String value) {
+        int index = hash(key);
         if (hashtab[index] == null)
-            hashtab[index] = s;
+            hashtab[index] = value;
         else {
             while (hashtab[index] != null)
                 index = (index + 1) % size;
-            hashtab[index] = s;
+            hashtab[index] = key;
         }
     }
 
-    public boolean find(String s) {
-        int index = hash(s);
-        if (hashtab[index] == null)
-            return false;
-        else {
-            while (hashtab[index] != null) {
-                if (hashtab[index].equals(s))
-                    return true;
-                index = (index + 1) % size;
-            }
-            return false;
-        }
+    public String find(String key) {
+        int index = hash(key);
+        return hashtab[index];
     }
 
-    public void delete(String s) {
-        int index = hash(s);
-        if (hashtab[index] == null)
-            return;
-        else {
-            while (hashtab[index] != null) {
-                if (hashtab[index].equals(s)) {
-                    hashtab[index] = null;
-                    return;
-                }
-                index = (index + 1) % size;
-            }
-        }
+    public void delete(String key) {
+        int index = hash(key);
+        hashtab[index] = null;
     }
 
     private int hash(String s) {
@@ -49,5 +30,12 @@ public class Hashtab {
         for (int i = 0; i < s.length(); i++)
             hash += s.charAt(i);
         return hash % size;
+    }
+
+    public String getMinimum() {
+        for (int i = 0; i < size; i++)
+            if (hashtab[i] != null)
+                return hashtab[i];
+        return null;
     }
 }

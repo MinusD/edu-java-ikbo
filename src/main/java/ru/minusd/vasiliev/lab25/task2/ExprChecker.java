@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 public class ExprChecker {
     public static void main(String[] args) {
-        Pattern p = Pattern.compile("\\([^()]*\\)");
+        Pattern p = Pattern.compile("(\\([^()]*(\\d+(\\+|\\-|\\*|/))*\\d*\\))(\\+|\\-|\\*/)?");
         Matcher m;
         var scanner = new Scanner(System.in);
         var s = scanner.nextLine();
