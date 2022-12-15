@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task01/Task1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task02/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/zakatov/lab13/task03/Address.java" afterDir="false" />
@@ -199,25 +200,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ru.minusd.zakatov.lab29" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\zakat\IdeaProjects\edu-java-ikbo\src\main\java\ru\minusd\zakatov\lab23\task4" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\джава\edu-java-ikbo\src\main\java\ru\minusd\budkov\lab05\task04\pictures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab13.task06.Task6" />
+  <component name="RunManager" selected="Application.Animation">
+    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.budkov.lab05.task04.Animation" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab13.task06.*" />
+          <option name="PATTERN" value="ru.minusd.budkov.lab05.task04.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab32.Test" />
+    <configuration name="InputDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task04.InputDate" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab32.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MeasureTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task05.MeasureTime" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab31.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task05.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +252,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tests.testCalc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCompareDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task02.TestCompareDates" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab31.*" />
+          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task02.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,6 +293,7 @@
         <item itemvalue="JUnit.Tests.testTableOrder" />
         <item itemvalue="JUnit.Tests.testCalc" />
         <item itemvalue="Application.Task6" />
+
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +307,7 @@
       <updated>1666271024082</updated>
       <workItem from="1666271026586" duration="5741000" />
       <workItem from="1666356079958" duration="9436000" />
+
       <workItem from="1666421711947" duration="4791000" />
       <workItem from="1666550144778" duration="4736000" />
       <workItem from="1666638511037" duration="1993000" />
@@ -329,6 +332,14 @@
       <workItem from="1669815515684" duration="960000" />
       <workItem from="1670078191615" duration="7089000" />
     </task>
+    <task id="LOCAL-00001" summary="Budkov: Added practise2">
+      <created>1671092870517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671092870517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,5 +356,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Budkov: Added practise2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Budkov: Added practise2" />
   </component>
 </project>
