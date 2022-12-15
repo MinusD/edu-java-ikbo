@@ -5,28 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task01/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task01/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task02/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task02/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task03/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task03/Tester3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task04/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task04/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task04/Tester4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task05/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task05/DogKennel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task06/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task06/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task07/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task07/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task07/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task08/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task09/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab02/task10/HowMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task01/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task02/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task02/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task02/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task03/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task04/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task04/pictures/photo_2022-09-28_13-55-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task04/pictures/photo_2022-09-28_13-55-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task04/pictures/photo_2022-09-28_13-55-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task04/pictures/photo_2022-09-28_13-55-59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task04/pictures/photo_2022-09-28_13-56-01.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task09/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/budkov/lab05/task10/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="RunManager" selected="Application.MeasureTime">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\джава\edu-java-ikbo\src\main\java\ru\minusd\budkov\lab05\task04\pictures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Animation">
+    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.budkov.lab05.task04.Animation" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.minusd.budkov.lab05.task04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InputDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task04.InputDate" />
       <module name="tasks" />
@@ -102,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrintDeveloper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task01.TestPrintDeveloper" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.minusd.zakatov.lab11.task01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab11.task03.TestStudent" />
       <module name="tasks" />
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Animation" />
         <item itemvalue="Application.MeasureTime" />
         <item itemvalue="Application.InputDate" />
         <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.TestCompareDates" />
-        <item itemvalue="Application.TestPrintDeveloper" />
       </list>
     </recent_temporary>
   </component>
@@ -148,8 +150,16 @@
       <updated>1666271024082</updated>
       <workItem from="1666271026586" duration="5741000" />
       <workItem from="1666356079958" duration="9436000" />
-      <workItem from="1671091587342" duration="1058000" />
+      <workItem from="1671091587342" duration="3719000" />
     </task>
+    <task id="LOCAL-00001" summary="Budkov: Added practise2">
+      <created>1671092870517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671092870517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,5 +176,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Budkov: Added practise2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Budkov: Added practise2" />
   </component>
 </project>
