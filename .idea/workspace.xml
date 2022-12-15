@@ -192,6 +192,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Hashtab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Hashtab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/TestPriorityQueue.java" beforeDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,6 +204,7 @@
       <list>
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
+
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -310,6 +312,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.minusd.vasiliev.lab30.GUI.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,9 +339,13 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.minusd.vasiliev.lab29.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.minusd.zakatov.lab31" />
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab31.Tests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -349,9 +356,14 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.minusd.vasiliev.lab31.GUI.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.minusd.zakatov.lab31" />
+      <option name="MAIN_CLASS_NAME" value="ru.minusd.zakatov.lab31.Tests" />
+      <option name="METHOD_NAME" value="testCalc" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -372,6 +384,7 @@
       <option name="MAIN_CLASS_NAME" value="tests.vasiliev.InternetOrderTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -411,11 +424,13 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.minusd.vasiliev.lab31.GUI.Main" />
-        <item itemvalue="JUnit.InternetOrderTest" />
-        <item itemvalue="Application.ru.minusd.vasiliev.lab29.Test" />
-        <item itemvalue="Application.Map" />
-        <item itemvalue="Application.HashToTree" />
+
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.testTableOrder" />
+        <item itemvalue="JUnit.Tests.testCalc" />
+        <item itemvalue="Application.Task6" />
+
       </list>
     </recent_temporary>
   </component>
@@ -473,6 +488,7 @@
       <updated>1669566972950</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,5 +546,9 @@
     <SUITE FILE_PATH="coverage/Calculator_java$InternetOrderTest.ic" NAME="InternetOrderTest Coverage Results" MODIFIED="1671014030076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>ru.minusd.vasiliev.lab31.*</FILTER>
     </SUITE>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Budkov: Added practise2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Budkov: Added practise2" />
   </component>
 </project>
