@@ -4,7 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143610e0-6aa6-4e3b-a8de-020d45ddf43b" name="Changes" comment="Vasiliev: Added practices 27-32">
+    <list default="true" id="982abb68-dbe3-439e-a87e-1571256893da" name="Changes" comment="gizatullina: Added Practice 1-3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task01/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task01/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task01/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task02/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task02/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task02/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task03/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task03/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task03/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task04/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task04/Dress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task04/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task05/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task05/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task05/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task06/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task06/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task06/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task07/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task07/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task07/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task08/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task08/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task08/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task09/ArrayPrintable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task09/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task09/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task09/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task10/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task10/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task10/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task10/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task10/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task11/Translation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab03/task07/Bookshelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab03/task07/Bookshelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task01/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task12/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task02/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task13/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task03/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task04/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task05/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task06/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task07/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task08/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/gizatullina/lab06/task09/.gitkeep" beforeDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task1/DoubleMaker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task2/Converter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab03/task2/Currency.java" afterDir="false" />
@@ -192,12 +246,16 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Hashtab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Hashtab.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/minusd/vasiliev/lab26/task1/TestPriorityQueue.java" beforeDir="false" />
-
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -234,19 +292,22 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;094054&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/edu-java-ikbo&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alsuh/IdeaProjects/edu-java/src/main/java/ru/minusd/gizatullina/lab06/task11&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+
       <recent name="D:\code\edu-java-ikbo\src\main\java\ru\minusd\vasiliev\lab31" />
       <recent name="D:\code\edu-java-ikbo\src\main\java\ru\minusd\vasiliev\lab29\task6" />
       <recent name="D:\code\edu-java-ikbo\src\main\java\ru\minusd\vasiliev\lab29\task5" />
@@ -278,6 +339,7 @@
       <command value="mvn clean compile" />
     </option>
   </component>
+
   <component name="RunManager" selected="Application.ru.minusd.vasiliev.lab31.GUI.Main">
     <configuration name="HashToTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab27.task1.HashToTree" />
@@ -350,6 +412,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="ru.minusd.vasiliev.lab31.GUI.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.minusd.vasiliev.lab31.GUI.Main" />
       <module name="tasks" />
@@ -368,6 +431,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="InternetOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tasks" />
       <extension name="coverage">
@@ -384,7 +448,6 @@
       <option name="MAIN_CLASS_NAME" value="tests.vasiliev.InternetOrderTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -487,8 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669566972950</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
-
+    <task id="LOCAL-00002" summary="gizatullina: Added Practice 1-3">
+      <created>1664789665565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664789665565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
