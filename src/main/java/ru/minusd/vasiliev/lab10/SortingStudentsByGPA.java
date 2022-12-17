@@ -16,7 +16,7 @@ public class SortingStudentsByGPA implements Comparator<Student> {
     }
 
     public static void main(String[] args) {
-        var iDNumber = new Student[50];
+        var iDNumber = new Student[15];
         setArray(iDNumber);
         var sorter = new SortingStudentsByGPA();
         sorter.mergeSort(iDNumber, 0, iDNumber.length-1);

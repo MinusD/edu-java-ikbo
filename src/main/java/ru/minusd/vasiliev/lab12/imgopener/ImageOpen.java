@@ -7,7 +7,8 @@ public class ImageOpen {
         JFrame frame = new JFrame("Image Opener");
         frame.setSize(720, 720);
         JPanel panel = new JPanel();
-        var label = new JLabel(new ImageIcon(ImageOpen.class.getResource(args[0])));
+        ImageIcon image = new ImageIcon(args[0]);
+        var label = new JLabel(image);
         panel.add(label);
         frame.add(panel);
         frame.setVisible(true);
